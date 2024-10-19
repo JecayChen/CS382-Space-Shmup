@@ -6,4 +6,4 @@ Third project for game dev class.
 
 ## Changelog Quicklook
 
-### 18 Friday 2024
+### 18 October 2024
